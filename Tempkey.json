@@ -72,13 +72,7 @@
         "Allowoffline": false
     },
     {
-        devicee_id": "b6b9336e5f8f34f2",
-        "key": "b6b9336e5f8f34f2",
-        "expirydate": "15-06-2032",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "",
+        "device_id": "b6b9336e5f8f34f2",
         "key": "5bfad65d0cb67ce0",
         "expirydate": "31-12-2045",
         "Allowoffline": true
